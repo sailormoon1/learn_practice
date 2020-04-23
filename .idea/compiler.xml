@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learn-practice-batch" />
+        <module name="learn-practice-boss" />
+        <module name="learn-practice-core" />
+        <module name="learn-practice-dao" />
+        <module name="learn-practice-utils" />
+        <module name="learn_practice_api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
