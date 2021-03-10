@@ -8,6 +8,7 @@ public class LearnPracticeBatchApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LearnPracticeBatchApplication.class, args);
+
     }
 
 }
